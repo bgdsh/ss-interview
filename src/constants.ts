@@ -1,0 +1,5 @@
+export const MS_ONE_SECOND = 1000;
+export const SECONDS_ONE_MINUTE = 60;
+export const MINUTES_ONE_HOUR = 60;
+export const HOURS_ONE_DAY = 24;
+export const MS_ONE_DAY = HOURS_ONE_DAY * MINUTES_ONE_HOUR * SECONDS_ONE_MINUTE * MS_ONE_SECOND;
